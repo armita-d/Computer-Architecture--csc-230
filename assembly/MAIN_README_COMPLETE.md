@@ -66,7 +66,7 @@ Transitioning from assembly to C for embedded systems
 
 [View Assignment 4 Details →](./assignment-4/)
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 - **Low-level programming**: Direct hardware manipulation without high-level abstractions
 - **C for embedded systems**: AVR C programming with interrupts and peripherals
@@ -83,7 +83,7 @@ Transitioning from assembly to C for embedded systems
 - **Documentation**: Clear code comments and technical explanations
 - **Language progression**: Assembly to C translation and abstraction understanding
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Microchip Studio 7 ([Download here](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio))
@@ -112,7 +112,7 @@ Armita Darbandi
 Computer Science Student, University of Victoria  
 CSC 230 - Spring 2025
 
-## 📝 License
+##  License
 
 These projects are academic assignments completed as coursework. Code is provided for educational and portfolio purposes.
 
